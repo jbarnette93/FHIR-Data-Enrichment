@@ -1,6 +1,6 @@
 # SOFA Scoring from FHIR (Observations + MedicationAdministrations)
 
-This repository computes **Sequential Organ Failure Assessment (SOFA)** scores for nine synthetic patients (`a`–`i`) using the FHIR API provided in the challenge.
+This repository computes **Sequential Organ Failure Assessment (SOFA)** scores for nine synthetic patients (`a`–`i`) using the FHIR API.
 
 It implements:
 - FHIR ➜ tidy `pandas` DataFrames  
